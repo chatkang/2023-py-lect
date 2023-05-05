@@ -38,3 +38,7 @@ lst = [1, 2, 3]
 lst[1] = 20
 lst
 # %%
+dir(tuple)
+# %%
+help(tuple)
+# %%
